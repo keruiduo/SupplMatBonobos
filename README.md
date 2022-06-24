@@ -11,3 +11,5 @@ This repository contains the following files:
 - 5_Analysis_Classification_Performances.html: The code and explanations to analyze classification performances in different configurations (classifiers, feature sets, management of sequences of calls)
 - 6_Analysis_UMAP_and_Silhouette.html: The code and explanations to compute and display various UMAP and silhouette scores for the raw data and the outputs of different classifiers
 - 7_Example_mlr_svm.html: The code and explanations for a simple ML pipeline which consists in using svm to assess the classification of Bonobo individual vocal signatures (with the mlr package in R)
+
+Please note that html files cannot be easily visualized in Github. The simplest approach is to download all the files (as a zip archive) and then open them with any browser.
