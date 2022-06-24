@@ -18,5 +18,7 @@ This repository contains the following files:
 Please note that html files cannot be easily visualized in Github. The simplest approach is to download all the files (as a zip archive) and then open them with any browser.
 
 DISCLAIMER: This code is provided AS IS without express or implied warranty.
+
 % Developed by Christophe Coupé, The University of Hong Kong (Hong Kong) & Vincent Arnaud, Université du Québec à Chicoutimi (Canada)
+
 % Last modified: June 2022
