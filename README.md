@@ -10,7 +10,7 @@ This repository contains the following files:
 - 4_Computing_results.html: The code and explanations to compute all needed results to assess classification performances for various classifiers (including stacked learners), different features sets and different management strategies for sequences of calls
 - 5_Analysis_Classification_Performances.html: The code and explanations to analyze classification performances in different configurations (classifiers, feature sets, management of sequences of calls)
 - 6_Analysis_UMAP_and_Silhouette.html: The code and explanations to compute and display various UMAP and silhouette scores for the raw data and the outputs of different classifiers
-- 7_Example_mlr_svm.html: The code and explanations for a simple ML pipeline which consists in using svm to assess the classification of Bonobo individual vocal signatures (with the mlr package in R)
+- 7_Example_mlr_svm.html: The code and explanations for a simple ML pipeline which consists in first conducting an exploration of the data with a supervised UMAP (with the uwot package in R) and then using svm to assess the classification of Bonobo individual vocal signatures (with the mlr package in R)
 - The raw and processed datasets (the processed dataset is the output of the curation phase)
 - The file 'mlr_dense_nn.R' contains functions to add dense neural networks to the mlr ML framework
 - The files 'Bali - GA.R', 'rules - Super class.R', 'rules - Rules for groups.R' and 'rules - Rules for rows.R' contain the code for the in-house genetic algorithm to study the different strategies for the sequences of calls
