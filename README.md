@@ -14,6 +14,7 @@ This repository contains the following files:
 - The raw and processed datasets (the processed dataset is the output of the curation phase)
 - The file 'mlr_dense_nn.R' contains functions to add dense neural networks to the mlr ML framework
 - The files 'Bali - GA.R', 'rules - Super class.R', 'rules - Rules for groups.R' and 'rules - Rules for rows.R' contain the code for the in-house genetic algorithm to study the different strategies for the sequences of calls
+- The file 'Comparing the classification performances with different MFCC sets.pdf' contains a brief comparison of the classification performances of SVM for call types and individual signatures with different MFCC sets
 
 Please note that html files cannot be easily visualized in Github. The simplest approach is to download all the files (as a zip archive) and then open them with any browser.
 
@@ -21,4 +22,4 @@ DISCLAIMER: This code is provided AS IS without express or implied warranty.
 
 % Developed by Christophe Coupé, The University of Hong Kong (Hong Kong) & Vincent Arnaud, Université du Québec à Chicoutimi (Canada)
 
-% Last modified: June 2022
+% Last modified: October 2022
